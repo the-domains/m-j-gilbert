@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[M J Gilbert]]></title>
+        <description><![CDATA[M J Gilbert]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jan 2016 23:55:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Edit]]></title>
+            <description><![CDATA[<article><h1>The Edit</h1><p>The edit is the last draft of the story, it's something that produces change. The camera lens captures what the human eye leaves behind; the edit is a reimagining of reality. I consider the brevity in every situation and strive for simplicity. 
+My focus in the cut is to always highlight the captured truth in performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/906546047cb8f0fb9eb32eae2abec326176e5cbc.jpg"></article>]]></description>
+            <link>undefinedthe-edit/index.html</link>
+            <guid isPermaLink="false">e433715e-4291-4138-ad5a-9ba0104231fc</guid>
+            <pubDate>Fri, 08 Jan 2016 23:55:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
