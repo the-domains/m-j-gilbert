@@ -1,7 +1,7 @@
 name: M J Gilbert
 favicon: null
 layout_spectrum: 0.9276730697602034
-typography_spectrum: 0.17114285589195788
+typography_spectrum: 0.32966
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5469898683950305
-  lightness: 0.0463592812884599
-  saturation: 0.21938790124841034
-  rhythmicContrast: 0.6634598306845874
+    - '#10172b'
+    - '#13345f'
+    - '#13467d'
+    - '#1563a3'
+    - '#157eb9'
+  brandStrength: 0.5625
+  lightness: 0
+  saturation: 0.8125
+  rhythmicContrast: 1
 purpose: []
