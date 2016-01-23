@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - actorson
   - montage
@@ -34,13 +34,15 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/124382426'
 title: M Gilbert Showreel
-datePublished: '2016-01-23T10:44:10.569Z'
-dateModified: '2016-01-23T10:43:32.414Z'
+datePublished: '2016-01-23T12:29:06.779Z'
+dateModified: '2016-01-23T12:28:59.569Z'
 sourcePath: _posts/2016-01-23-m-gilbert-showreel.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
