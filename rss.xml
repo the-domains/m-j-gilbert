@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[M J Gilbert]]></title>
+        <description><![CDATA[M J Gilbert]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 03:30:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sleepmakeswaves - Great Northern (official music video)]]></title>
+            <description><![CDATA[<article><h1>sleepmakeswaves - Great Northern (official music video)</h1><p>Find us on the internet: http://www.sleepmakeswaves.com http://www.twitter.com/sleepmakeswaves http://www.facebook.com/sleepmakeswaves http://birdsrobe.bandcamp.com Directed by Bradley C - http://bradleyc.com.au/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a1413e0bf9ddfaa58879eb0e3dc99ef445d471a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=YZl0Vr7mgeY</link>
+            <guid isPermaLink="false">9a6389a3-bda2-420e-bb5f-2e187188c930</guid>
+            <pubDate>Sat, 23 Jan 2016 03:30:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
