@@ -1,6 +1,6 @@
 name: M J Gilbert
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.49464
 typography_spectrum: 0
 collections:
   - index:
@@ -33,8 +33,8 @@ color:
     - '#13467d'
     - '#1563a3'
     - '#157eb9'
-  brandStrength: 1
-  lightness: 0.5290011
+  brandStrength: 0
+  lightness: 0
   saturation: 1
   rhythmicContrast: 0.5139635
 purpose: []
