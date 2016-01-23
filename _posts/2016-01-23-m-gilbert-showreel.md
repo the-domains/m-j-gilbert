@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/124382426'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - actorson
   - montage
@@ -17,8 +17,8 @@ keywords:
   - camera
   - '2014'
 description: A little montage of some of my favourite jobs from recent past.
-datePublished: '2016-01-23T23:54:18.668Z'
-dateModified: '2016-01-23T23:54:15.083Z'
+datePublished: '2016-01-23T23:59:56.173Z'
+dateModified: '2016-01-23T23:59:48.523Z'
 author:
   - name: Michael Gilbert
     url: 'http://vimeo.com/mgilb19'
@@ -47,6 +47,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-This is me.
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F124382426&amp;url=https%3A%2F%2Fvimeo.com%2F124382426&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F522091141_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e08f60b-16d6-4fbf-abc1-042ae75add01.jpg)
