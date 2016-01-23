@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/124382426'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - actorson
   - montage
@@ -17,23 +17,23 @@ keywords:
   - camera
   - '2014'
 description: A little montage of some of my favourite jobs from 2014
-datePublished: '2016-01-23T06:53:38.732Z'
-dateModified: '2016-01-23T06:53:34.848Z'
+datePublished: '2016-01-23T10:34:41.614Z'
+dateModified: '2016-01-23T10:34:39.008Z'
 author:
   - name: Michael Gilbert
     url: 'http://vimeo.com/mgilb19'
     avatar: {}
 related: []
 app_links:
-  - url: 'vimeo://app.vimeo.com/videos/124382426'
-    type: ios
-    app_name: Vimeo
+  - app_name: Vimeo
     app_store_id: '425194759'
-  - url: 'vimeo://app.vimeo.com/videos/124382426'
+    url: 'vimeo://app.vimeo.com/videos/124382426'
+    type: ios
+  - package: com.vimeo.android.videoapp
+    app_name: Vimeo
+    url: 'vimeo://app.vimeo.com/videos/124382426'
     should_fallback: 'true'
     type: web
-    app_name: Vimeo
-    package: com.vimeo.android.videoapp
 title: M Gilbert Showreel
 sourcePath: _posts/2016-01-23-m-gilbert-showreel.md
 published: true
