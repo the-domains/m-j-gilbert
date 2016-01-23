@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:1a8a0c49-59a6-4014-adb2-6264a92b5128'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-01-23T10:35:38.200Z'
+dateModified: '2016-01-23T10:35:36.322Z'
 author: []
-datePublished: '2016-01-23T09:54:00.207Z'
-publisher:
-  domain: ''
-  name: ''
 title: In Melbourne Now
-dateModified: '2016-01-23T09:53:32.064Z'
 sourcePath: _posts/2016-01-23-in-melbourne-now.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: in-melbourne-now/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
