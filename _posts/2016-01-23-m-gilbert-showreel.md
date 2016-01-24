@@ -17,7 +17,7 @@ keywords:
   - camera
   - '2014'
 description: A little montage of some of my favourite jobs from recent past.
-datePublished: '2016-01-24T00:17:39.138Z'
+datePublished: '2016-01-24T00:17:39.155Z'
 dateModified: '2016-01-24T00:17:32.595Z'
 author:
   - name: Michael Gilbert
