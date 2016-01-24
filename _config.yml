@@ -1,5 +1,4 @@
-favicon: null
-name: M J Gilbert
+layout_spectrum: 0.50061
 opengraph:
   image: null
   type: null
@@ -26,13 +25,14 @@ color:
     - '#4C5B7F'
     - '#6E9BCE'
   rhythmicContrast: 0.5
-typography_spectrum: 0.15305
+typography_spectrum: 0.2658432
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.50061
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: M J Gilbert
