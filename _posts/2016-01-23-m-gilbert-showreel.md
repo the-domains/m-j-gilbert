@@ -17,8 +17,8 @@ keywords:
   - camera
   - '2014'
 description: A little montage of some of my favourite jobs from recent past.
-datePublished: '2016-01-23T23:59:56.173Z'
-dateModified: '2016-01-23T23:59:48.523Z'
+datePublished: '2016-01-24T00:17:39.138Z'
+dateModified: '2016-01-24T00:17:32.595Z'
 author:
   - name: Michael Gilbert
     url: 'http://vimeo.com/mgilb19'
