@@ -17,8 +17,8 @@ keywords:
   - camera
   - '2014'
 description: A little montage of some of my favourite jobs from recent past.
-datePublished: '2016-01-24T20:57:23.118Z'
-dateModified: '2016-01-24T20:57:15.991Z'
+datePublished: '2016-01-29T06:31:23.656Z'
+dateModified: '2016-01-29T06:31:18.093Z'
 author:
   - name: Michael Gilbert
     url: 'http://vimeo.com/mgilb19'
@@ -34,7 +34,7 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-title: M J Gilbert Showreel
+title: M Gilbert Showreel
 sourcePath: _posts/2016-01-23-m-gilbert-showreel.md
 published: true
 authors: []
@@ -49,4 +49,4 @@ _context: 'http://schema.org'
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F124382426&amp;url=https%3A%2F%2Fvimeo.com%2F124382426&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F522091141_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e08f60b-16d6-4fbf-abc1-042ae75add01.jpg)
+.
