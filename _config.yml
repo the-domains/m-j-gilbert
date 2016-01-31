@@ -1,4 +1,8 @@
-layout_spectrum: 0.50061
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,30 +13,26 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0
   brandStrength: 1
-  lightness: 0
+  rhythmicContrast: 0.5
   brandColors:
     - '#2E384C'
     - '#4C5B7F'
     - '#6E9BCE'
-  rhythmicContrast: 0.5
-typography_spectrum: 0.2658432
-cta:
-  bucket: null
-  version: null
-  domain: null
+  lightness: 0
+typography_spectrum: 0.4978518
+layout_spectrum: 0.50061
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: M J Gilbert
