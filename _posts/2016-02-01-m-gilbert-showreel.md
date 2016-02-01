@@ -17,8 +17,8 @@ keywords:
   - crop
   - farming
 description: A little montage of some of my favourite jobs from recent past.
-datePublished: '2016-02-01T22:03:29.984Z'
-dateModified: '2016-02-01T22:03:22.697Z'
+datePublished: '2016-02-01T22:08:55.553Z'
+dateModified: '2016-02-01T22:08:52.403Z'
 author:
   - name: Michael Gilbert
     url: 'http://vimeo.com/mgilb19'
