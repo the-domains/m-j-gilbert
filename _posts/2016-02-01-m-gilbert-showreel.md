@@ -33,10 +33,10 @@ app_links:
     should_fallback: 'true'
     type: web
 isBasedOnUrl: 'https://vimeo.com/124382426'
-title: M J Gilbert Showreel
-datePublished: '2016-02-01T10:59:33.316Z'
-dateModified: '2016-02-01T10:59:05.234Z'
-starred: false
+title: M. J. Gilbert Showreel
+datePublished: '2016-02-01T11:02:56.078Z'
+dateModified: '2016-02-01T11:02:51.071Z'
+starred: true
 sourcePath: _posts/2016-02-01-m-gilbert-showreel.md
 published: true
 inFeed: true
