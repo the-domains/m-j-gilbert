@@ -4,7 +4,7 @@
         <description><![CDATA[M J Gilbert]]></description>
         <link>http://mjgilbert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 22:01:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 22:01:27 GMT</lastBuildDate>
         <atom:link href="http://mjgilbert.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[M. J. Gilbert Showreel]]></title>
@@ -12,6 +12,20 @@
             <link>https://vimeo.com/124382426</link>
             <guid isPermaLink="false">159343d6-57b8-4372-9be1-b8b2f7631293</guid>
             <pubDate>Mon, 01 Feb 2016 11:14:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DZ Deathrays - Less Out Of Sync]]></title>
+            <description><![CDATA[<article><h1>DZ Deathrays - Less Out Of Sync</h1><p>Directed by Katie Ridley From the album 'Black Rat' available on iTunes: http://smarturl.it/blackratalbum 18th August // London Album Launch Show - http://smarturl.it/y6atjc</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb802011a8ede34dc4352839ae354799dad07dc0.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=7tk7AZgiYq4</link>
+            <guid isPermaLink="false">a53683fe-8505-445d-92df-6e5ff64cfb2d</guid>
+            <pubDate>Mon, 01 Feb 2016 20:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fear and Delight - Editors Cut]]></title>
+            <description><![CDATA[<article><h1>Fear and Delight - Editors Cut</h1><p>Cut at The Post Lounge. I got to experiment a little.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2191fa0554dfb1adebbd739c27db8f0865cba77.jpg"></article>]]></description>
+            <link>https://vimeo.com/130949819</link>
+            <guid isPermaLink="false">079e739f-5efe-46e4-9011-e2aa7c642260</guid>
+            <pubDate>Sat, 23 Jan 2016 06:27:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
