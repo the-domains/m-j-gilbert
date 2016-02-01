@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  url: 'https://vimeo.com/'
   name: Vimeo
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - montage
   - lenses
@@ -33,15 +33,16 @@ app_links:
     should_fallback: 'true'
     type: web
 isBasedOnUrl: 'https://vimeo.com/124382426'
-title: M Gilbert Showreel
-datePublished: '2016-02-01T10:54:57.272Z'
-dateModified: '2016-02-01T10:54:47.442Z'
-starred: true
+title: M J Gilbert Showreel
+datePublished: '2016-02-01T10:59:33.316Z'
+dateModified: '2016-02-01T10:59:05.234Z'
+starred: false
 sourcePath: _posts/2016-02-01-m-gilbert-showreel.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
