@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - deathrays
   - duration
@@ -34,14 +34,16 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=7tk7AZgiYq4&feature=applinks'
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=7tk7AZgiYq4'
-title: DZ Deathrays - Less Out Of Sync (Official Video)
-datePublished: '2016-01-23T06:46:31.472Z'
-dateModified: '2016-01-23T06:45:27.059Z'
+title: DZ Deathrays - Less Out Of Sync
+datePublished: '2016-02-01T20:29:36.985Z'
+dateModified: '2016-02-01T20:29:31.226Z'
 sourcePath: _posts/2016-01-23-dz-deathrays-less-out-of-sync-official-video.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
