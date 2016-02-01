@@ -17,8 +17,8 @@ keywords:
   - crop
   - farming
 description: A little montage of some of my favourite jobs from recent past.
-datePublished: '2016-02-01T11:14:23.970Z'
-dateModified: '2016-02-01T11:14:17.336Z'
+datePublished: '2016-02-01T22:03:29.984Z'
+dateModified: '2016-02-01T22:03:22.697Z'
 author:
   - name: Michael Gilbert
     url: 'http://vimeo.com/mgilb19'
@@ -34,7 +34,7 @@ app_links:
     url: 'vimeo://app.vimeo.com/videos/124382426'
     should_fallback: 'true'
     type: web
-title: M. J. Gilbert Showreel
+title: The Reel
 sourcePath: _posts/2016-02-01-m-gilbert-showreel.md
 published: true
 authors: []
