@@ -4,21 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T23:46:34.175Z'
-dateModified: '2016-02-01T23:46:29.359Z'
+datePublished: '2016-02-10T23:08:29.756Z'
+dateModified: '2016-02-10T23:08:16.388Z'
 title: Contact Me
 author: []
 sourcePath: _posts/2016-02-01-contact-me.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 _type: Blurb
 
 ---
