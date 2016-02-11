@@ -3,11 +3,11 @@ inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T00:50:49.840Z'
-dateModified: '2016-02-11T00:50:40.759Z'
+datePublished: '2016-02-11T00:52:38.965Z'
+dateModified: '2016-02-11T00:51:05.724Z'
 title: The edit is the last draft of the script;
 author: []
 sourcePath: _posts/2016-02-01-the-edit-is-the-last-draft-of-the-script.md
