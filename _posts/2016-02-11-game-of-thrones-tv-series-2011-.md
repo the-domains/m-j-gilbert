@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: VFX Editor
-datePublished: '2016-02-11T11:24:25.711Z'
-dateModified: '2016-02-11T11:24:15.670Z'
+datePublished: '2016-02-11T11:34:22.004Z'
+dateModified: '2016-02-11T11:34:09.775Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77c30bdc-4712-4563-94da-c91acd1bc8f1.jpg)
+![VFX Editor](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd4dd32d5899a5bcd3085160945b00d42b906ca3.jpg)
+
+VFX Editor
