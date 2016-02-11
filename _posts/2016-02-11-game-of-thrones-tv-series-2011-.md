@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T03:54:52.895Z'
-dateModified: '2016-02-11T03:54:34.039Z'
+datePublished: '2016-02-11T04:07:12.661Z'
+dateModified: '2016-02-11T04:07:06.799Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Game of Thrones (2016)</h1><p>VFX Editor</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c57af592704927472f9da9274ad491c1c2d8234.jpg" /></article>
+<article style=""><h1>Game of Thrones (2016)</h1><p>VFX Editor</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7365cf46b984b051ceffc64a603a55ae8b01a96.jpg" /></article>
