@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T00:52:38.965Z'
-dateModified: '2016-02-11T00:51:05.724Z'
+datePublished: '2016-02-11T07:26:57.768Z'
+dateModified: '2016-02-11T07:26:52.104Z'
 title: The edit is the last draft of the script;
 author: []
 sourcePath: _posts/2016-02-01-the-edit-is-the-last-draft-of-the-script.md
@@ -23,3 +24,4 @@ _type: Blurb
 ---
 That's where I come in.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/854f9978-cdba-4c37-ab3f-fece87a81985.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4d96495-c3dd-4f7f-8eb3-af287acfeda6.gif)
