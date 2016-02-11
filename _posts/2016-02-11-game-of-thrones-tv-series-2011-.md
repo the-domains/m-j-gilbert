@@ -6,13 +6,13 @@ isBasedOnUrl: 'http://m.imdb.com/title/tt0944947/mediaindex/?rmconst=rm425799680
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-11T10:57:03.423Z'
-dateModified: '2016-02-11T10:56:59.207Z'
+description: VFX Editor
+datePublished: '2016-02-11T11:24:25.711Z'
+dateModified: '2016-02-11T11:24:15.670Z'
 author: []
 related: []
 app_links: []
-title: Game of Thrones (Season 6)
+title: Game of Thrones (2016)
 sourcePath: _posts/2016-02-11-game-of-thrones-tv-series-2011-.md
 published: true
 authors: []
