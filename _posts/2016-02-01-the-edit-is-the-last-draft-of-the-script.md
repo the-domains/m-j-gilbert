@@ -3,21 +3,21 @@ inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T23:08:28.706Z'
-dateModified: '2016-02-10T23:08:16.349Z'
+datePublished: '2016-02-11T00:50:49.840Z'
+dateModified: '2016-02-11T00:50:40.759Z'
 title: The edit is the last draft of the script;
 author: []
 sourcePath: _posts/2016-02-01-the-edit-is-the-last-draft-of-the-script.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
+  favicon: null
 _type: Blurb
 
 ---
