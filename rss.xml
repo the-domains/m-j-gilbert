@@ -4,8 +4,15 @@
         <description><![CDATA[M J Gilbert]]></description>
         <link>http://mjgilbert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 11:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 04:06:04 GMT</lastBuildDate>
         <atom:link href="http://mjgilbert.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>Hello! I'm glad I've peaked your interest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/693790350e5385c36911d8d81bab1bfc7ac067af.jpg"></article>]]></description>
+            <link>http://mjgilbert.com/about-me/index.html</link>
+            <guid isPermaLink="false">ba38b5b6-881a-444f-a754-a583f84e795f</guid>
+            <pubDate>Tue, 16 Feb 2016 04:03:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Game of Thrones (2016)]]></title>
             <description><![CDATA[<article><h1>Game of Thrones (2016)</h1><p>VFX Editor</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce052d4f369e0e7db2692a44e50ef02f54242ec3.jpg"></article>]]></description>
