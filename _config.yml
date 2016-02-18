@@ -6,22 +6,19 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 1
   lightness: 0.744898
   brandColors:
-    - '#10172b'
-    - '#13345f'
-    - '#13467d'
-    - '#1563a3'
-    - '#157eb9'
+    - '#2E384C'
+    - '#14171F'
   rhythmicContrast: 0.5
 cta:
   bucket: null
@@ -31,8 +28,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: M. J. Gilbert
 favicon: null
+name: M. J. Gilbert
 opengraph:
   image: null
   type: null
