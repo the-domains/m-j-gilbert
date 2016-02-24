@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T21:00:18.693Z'
-dateModified: '2016-02-24T21:00:15.704Z'
+datePublished: '2016-02-24T21:15:50.412Z'
+dateModified: '2016-02-24T21:15:45.282Z'
 title: The edit is the last draft of the script;
 author: []
 sourcePath: _posts/2016-02-01-the-edit-is-the-last-draft-of-the-script.md
