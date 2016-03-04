@@ -17,8 +17,8 @@ keywords:
   - baratheon
   - unknownmirc
 description: VFX Editor
-datePublished: '2016-03-04T05:39:10.955Z'
-dateModified: '2016-03-04T05:39:02.862Z'
+datePublished: '2016-03-04T05:44:09.546Z'
+dateModified: '2016-03-04T05:44:04.069Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/989d4dfc-9a0f-40ad-9e04-8544327fb0e6.jpg)
-
-<article style=""><h1>Game of Thrones (2016)</h1><p>VFX Editor</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f08ae5c91db63d71384db19bca937bbbec3de5f.jpg" /></article>
+![VFX Editor](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eacd1c5f4eee680b7fecdb352eb42dd7f19d4bc7.jpg)
