@@ -17,8 +17,8 @@ keywords:
   - baratheon
   - unknownmirc
 description: VFX Editor
-datePublished: '2016-03-04T03:58:38.180Z'
-dateModified: '2016-03-04T03:57:37.596Z'
+datePublished: '2016-03-04T04:02:36.463Z'
+dateModified: '2016-03-04T04:01:57.160Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-16
-
-<article style=""><h1>Game of Thrones &amp;lpar;TV Series 2011- &amp;rpar;</h1><p>While a civil war brews between several noble families in Westeros&amp;comma; the children of the former rulers of the land attempt to rise up to power&amp;period; Meanwhile a forgotten race&amp;comma; bent on destruction&amp;comma; return after thousands of years in the North&amp;period;</p><img src="http://ia.media-imdb.com/images/M/MV5BMjM5OTQ1MTY5Nl5BMl5BanBnXkFtZTgwMjM3NzMxODE@._V1_UY1200_CR90,0,630,1200_AL_.jpg" /></article>
+<article style=""><h1>Game of Thrones (2016)</h1><p>VFX Editor</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f08ae5c91db63d71384db19bca937bbbec3de5f.jpg" /></article>
