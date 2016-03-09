@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'The Post Lounge creates beautiful pictures for film, broadcast and online.'
-datePublished: '2016-03-09T03:23:57.916Z'
-dateModified: '2016-03-09T03:23:31.429Z'
+description: 'The Post Lounge is a dynamic, friendly company that is designed to meet every client need.'
+datePublished: '2016-03-09T03:37:25.836Z'
+dateModified: '2016-03-09T03:37:00.200Z'
 author: []
 related: []
 app_links: []
@@ -26,8 +26,6 @@ _type: MediaObject
 
 ---
 ![The Post Lounge creates beautiful pictures for film, broadcast and online.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b85dac16ce773a6f66f8059a1d97213d1c04794c.png)
-
-# The Post Lounge
 
 The Post Lounge is a dynamic, friendly company that is designed to meet every client need.
 
