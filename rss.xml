@@ -4,8 +4,15 @@
         <description><![CDATA[M J Gilbert]]></description>
         <link>http://mjgilbert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 02:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 02:29:05 GMT</lastBuildDate>
         <atom:link href="http://mjgilbert.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iloura]]></title>
+            <description><![CDATA[<article><h1>Iloura</h1><p>Based in Melbourne and Sydney, Iloura houses a collective of award-winning animation and VFX artists who are motivated by creativity and technical innovation. Iloura's commitment to a project is unwavering. The 200+ team of VFX Artists help productions to engage with any audience across any media platform.</p><img src="http://iloura.com.au/images/favicons/Iloura-200.png"></article>]]></description>
+            <link>http://iloura.com.au/about</link>
+            <guid isPermaLink="false">5bd04693-80a7-4b58-b24f-8b749fc71c79</guid>
+            <pubDate>Wed, 09 Mar 2016 02:28:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Game of Thrones Season 6: Trailer (RED BAND) (HBO)]]></title>
             <description><![CDATA[<article><h1>Game of Thrones Season 6: Trailer (RED BAND) (HBO)</h1><p>The #GoTSeason6 trailer is here. 4.24.16 (WARNING: MATURE CONTENT) Music: “Wicked Game” performed by James Vincent McMorrow Subscribe to the Game of Thrones YouTube: http://itsh.bo/10qIOan</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08bca670e9b458fadb69d35e801cec3cd1cfddd4.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mjgilbert.com/imdb/index.html</link>
             <guid isPermaLink="false">a80c38c5-976e-4343-92e2-350b8ec9debc</guid>
             <pubDate>Tue, 16 Feb 2016 04:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Reel]]></title>
-            <description><![CDATA[<article><h1>The Reel</h1><p>A little montage of some of my favourite jobs from recent past.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7c3451cf4811cf21d1c00867d61a795c5b853a9.jpg"></article>]]></description>
-            <link>urn:uuid:8b039cc4-ffd8-4a5d-93ab-5e9e47372332</link>
-            <guid isPermaLink="false">b6b55c91-abfd-4375-bfb0-00e59d2cefd7</guid>
-            <pubDate>Thu, 11 Feb 2016 03:13:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
