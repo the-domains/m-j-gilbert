@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The Post Lounge creates beautiful pictures for film, broadcast and online.'
-datePublished: '2016-03-09T03:19:22.670Z'
-dateModified: '2016-03-09T03:19:13.451Z'
+datePublished: '2016-03-09T03:23:57.916Z'
+dateModified: '2016-03-09T03:23:31.429Z'
 author: []
 related: []
 app_links: []
@@ -25,11 +25,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbf6c4ff-6863-44e0-bd6a-a32f5d1495fb.png)
+![The Post Lounge creates beautiful pictures for film, broadcast and online.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b85dac16ce773a6f66f8059a1d97213d1c04794c.png)
 
 # The Post Lounge
-
-<article style=""><h1>The Post Lounge: Post Production | VFX | Film &amp; TV | Digital</h1><p>The Post Lounge creates beautiful pictures for film, broadcast and online.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3761c3245672bbff188b418e1d8bb1570e078a7c.jpg" /></article>
 
 The Post Lounge is a dynamic, friendly company that is designed to meet every client need.
 
