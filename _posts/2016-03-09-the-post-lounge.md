@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The Post Lounge is a dynamic, friendly company that is designed to meet every client need.'
-datePublished: '2016-03-15T04:08:05.592Z'
-dateModified: '2016-03-09T03:38:39.293Z'
+datePublished: '2016-03-16T02:08:06.445Z'
+dateModified: '2016-03-16T02:08:02.114Z'
 author: []
 related: []
 app_links: []
@@ -25,8 +25,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![The Post Lounge creates beautiful pictures for film, broadcast and online.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b85dac16ce773a6f66f8059a1d97213d1c04794c.png)
-
 The Post Lounge is a dynamic, friendly company that is designed to meet every client need.
 
 Recognised both internationally and domestically for their exceptional post production capabilities and the ability to maintain high creative standards, they boast excellent technical standards aiming to serve their customers at a level that is designed to exceed expectations.
