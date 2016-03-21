@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-11T04:48:39.426Z'
-dateModified: '2016-02-11T04:48:36.600Z'
+description: 'Call Me: +614 02 351 327'
+datePublished: '2016-03-21T04:14:59.863Z'
+dateModified: '2016-03-21T04:14:58.737Z'
 title: Contact Me
 author: []
 sourcePath: _posts/2016-02-01-contact-me.md
@@ -25,3 +25,7 @@ _type: Blurb
 Call Me: +614 02 351 327
 
 Email Me: michael@mjgilbert.com
+
+[LinkedIn][0]
+
+[0]: https://www.linkedin.com/m/profile/ACoAAAPSKosBhlLOrl0BPvGapke6u0lGOUQKENE/
