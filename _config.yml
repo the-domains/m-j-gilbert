@@ -17,11 +17,8 @@ color:
   brandStrength: 1
   lightness: 0
   brandColors:
-    - '#ABCDCF'
-    - '#345065'
-    - '#00DFF1'
-    - '#3DC6CE'
-    - '#63ECF4'
+    - '#2E384C'
+    - '#14171F'
   rhythmicContrast: 1
 cta:
   bucket: null
@@ -31,8 +28,8 @@ analytics:
   twitter: null
   google: UA-74177415-1
   facebook: null
-name: M. J. Gilbert
 favicon: null
+name: M. J. Gilbert
 opengraph:
   image: null
   type: null
