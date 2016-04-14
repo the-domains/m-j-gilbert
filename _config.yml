@@ -28,11 +28,11 @@ analytics:
   twitter: null
   google: UA-74177415-1
   facebook: null
-favicon: null
 name: M. J. Gilbert
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.07572501
-layout_spectrum: 0
+layout_spectrum: 0.1584318
