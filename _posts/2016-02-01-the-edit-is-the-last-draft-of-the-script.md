@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-03T22:29:49.591Z'
-dateModified: '2016-03-03T22:29:46.561Z'
+description: "That's where I come in."
+datePublished: '2016-04-14T03:52:17.717Z'
+dateModified: '2016-04-14T03:52:08.042Z'
 title: The edit is the last draft of the script;
 author: []
 sourcePath: _posts/2016-02-01-the-edit-is-the-last-draft-of-the-script.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 _type: Blurb
 
 ---
