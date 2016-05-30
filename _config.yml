@@ -13,7 +13,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 1
   lightness: 1
   brandColors:
@@ -28,8 +28,8 @@ analytics:
   twitter: null
   google: UA-74177415-1
   facebook: null
-favicon: null
 name: M. J. Gilbert
+favicon: null
 opengraph:
   image: null
   type: null
