@@ -1,19 +1,20 @@
 ---
-description: 'Call Me: +614 02 351 327'
-datePublished: '2016-05-30T06:54:29.964Z'
-inNav: false
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
+keywords: []
+description: 'Call Me: +614 02 351 327'
+datePublished: '2016-05-30T06:59:13.267Z'
+dateModified: '2016-05-30T06:58:49.598Z'
 author: []
 sourcePath: _posts/2016-02-01-contact-me.md
-hasPage: false
-authors: []
 title: ''
+authors: []
 publisher: null
-keywords: []
-dateModified: '2016-05-30T06:54:15.786Z'
-inFeed: true
 starred: false
-_type: Blurb
+url: contact-me/index.html
+_type: WebPage
 
 ---
 Call Me: +614 02 351 327
