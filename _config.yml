@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#1F1F1F'
     - '#FFFFFF'
@@ -37,5 +37,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.9124597
-layout_spectrum: 1
+typography_spectrum: 1
+layout_spectrum: 0.2336197
