@@ -1,4 +1,4 @@
-typography_spectrum: 0.07572501
+name: M. J. Gilbert
 opengraph:
   image: null
   type: null
@@ -9,12 +9,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.1208378
 title: M J Gilbert
 purpose: []
@@ -31,8 +31,8 @@ cta:
   version: null
   domain: null
 favicon: null
+typography_spectrum: 0.07572501
 analytics:
   twitter: null
   google: UA-74177415-1
   facebook: null
-name: M. J. Gilbert
