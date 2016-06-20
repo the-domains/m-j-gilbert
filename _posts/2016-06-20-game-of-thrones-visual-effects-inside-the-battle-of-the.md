@@ -7,9 +7,9 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-20T12:30:19.674Z'
-dateModified: '2016-06-20T12:29:50.452Z'
-title: ''
+datePublished: '2016-06-20T12:31:25.458Z'
+dateModified: '2016-06-20T12:30:21.656Z'
+title: '‘Game of Thrones’ Visual Effects: Inside ‘The Battle of the Bastards'
 author:
   - name: ''
     url: ''
@@ -20,4 +20,5 @@ starred: false
 _type: MediaObject
 
 ---
+# 'Game of Thrones' Visual Effects: Inside 'The Battle of the Bastards
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19ec23e7-5b20-4106-a7a5-5df2ab5fa960.jpg)
