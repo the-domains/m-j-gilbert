@@ -6,9 +6,13 @@ isBasedOnUrl: >-
   http://variety.com/video/game-of-thrones-battle-of-the-bastards-visual-effects/
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-20T12:31:25.458Z'
-dateModified: '2016-06-20T12:30:21.656Z'
+description: >-
+  “Game of Thrones” has won the last four Emmys for outstanding visual effects,
+  and “The Battle of the Bastards” is the show’s biggest vfx episode yet. Vfx
+  producer Steve Kullback and vfx supervisor Joe Bauer tell Variety’s David
+  Cohen about the climax of their most difficult season yet.
+datePublished: '2016-06-20T12:37:24.889Z'
+dateModified: '2016-06-20T12:37:07.546Z'
 title: '‘Game of Thrones’ Visual Effects: Inside ‘The Battle of the Bastards'
 author:
   - name: ''
