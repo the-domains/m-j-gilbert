@@ -4,7 +4,7 @@
         <description><![CDATA[M J Gilbert]]></description>
         <link>http://mjgilbert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 12:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 12:12:15 GMT</lastBuildDate>
         <atom:link href="http://mjgilbert.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Reel]]></title>
@@ -12,6 +12,20 @@
             <link>urn:uuid:8b039cc4-ffd8-4a5d-93ab-5e9e47372332</link>
             <guid isPermaLink="false">b6b55c91-abfd-4375-bfb0-00e59d2cefd7</guid>
             <pubDate>Mon, 30 May 2016 07:06:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iloura June 2016 Montage Reel]]></title>
+            <description><![CDATA[<article><h1>Iloura June 2016 Montage Reel</h1><p>Edited by Michael J Gilbert</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aac46772a83d4a1b4b24da7da51d139fae333940.jpg"></article>]]></description>
+            <link>https://vimeo.com/168591756</link>
+            <guid isPermaLink="false">a21757a4-57d1-4093-907a-186bfb6bbea7</guid>
+            <pubDate>Mon, 20 Jun 2016 12:12:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iloura 2016 Effects & Environment]]></title>
+            <description><![CDATA[<article><h1>Iloura 2016 Effects & Environment</h1><p>Edited by Michael J Gilbert</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f9f15e820d7e343a768ef59485a9c68f5a80742.jpg"></article>]]></description>
+            <link>https://vimeo.com/166909217</link>
+            <guid isPermaLink="false">ed27c6de-fe61-44ef-8ea6-57b2c412bc5b</guid>
+            <pubDate>Mon, 20 Jun 2016 12:12:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iloura 2016 Creature Character]]></title>
