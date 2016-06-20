@@ -3,12 +3,12 @@ author:
   - name: Michael Gilbert
     url: 'http://vimeo.com/mgilb19'
     avatar: {}
-datePublished: '2016-06-06T23:32:28.098Z'
+datePublished: '2016-06-20T12:11:45.246Z'
 title: Fear and Delight - Editors Cut
 isBasedOnUrl: 'https://vimeo.com/130949819'
 description: Edited by Michael J Gilbert
 sourcePath: _posts/2016-05-30-fear-and-delight-editors-cut.md
-dateModified: '2016-06-06T23:31:56.436Z'
+dateModified: '2016-06-20T12:11:22.220Z'
 starred: false
 inFeed: true
 hasPage: false
