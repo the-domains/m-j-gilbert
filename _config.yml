@@ -1,7 +1,7 @@
 name: M. J. Gilbert
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
+layout_spectrum: 0.74732
+typography_spectrum: 0.25864
 collections:
   - index:
       path: /
