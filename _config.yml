@@ -1,8 +1,7 @@
+name: M. J. Gilbert
+favicon: null
+layout_spectrum: 1
 typography_spectrum: 0.08002145
-opengraph:
-  image: null
-  type: null
-  appId: null
 collections:
   - index:
       path: /
@@ -15,27 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.0424275
 title: M J Gilbert
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-74177415-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 0
   brandColors:
     - '#1F1F1F'
     - '#FFFFFF'
     - '#909090'
     - '#4A5360'
     - '#CDCDCD'
+  brandStrength: 1
   lightness: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-analytics:
-  twitter: null
-  google: UA-74177415-1
-  facebook: null
-name: M. J. Gilbert
+  saturation: 1
+  rhythmicContrast: 0
+purpose: []
