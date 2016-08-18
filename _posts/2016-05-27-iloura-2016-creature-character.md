@@ -1,18 +1,27 @@
 ---
-dateModified: '2016-06-20T12:11:22.648Z'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/166910614'
+inLanguage: null
+keywords: []
+description: Edited by Michael J Gilbert
+datePublished: '2016-08-18T05:45:11.503Z'
+dateModified: '2016-08-18T05:45:10.730Z'
 author:
   - name: Iloura
     url: 'http://vimeo.com/iloura'
     avatar: {}
-title: Iloura 2016 Creature Character
-isBasedOnUrl: 'https://vimeo.com/166910614'
-description: Edited by Michael J Gilbert
+title: Iloura // Creature Character
 sourcePath: _posts/2016-05-27-iloura-2016-creature-character.md
-datePublished: '2016-06-20T12:12:05.457Z'
+via: {}
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
