@@ -1,18 +1,23 @@
 ---
-description: That's where I come in.
-datePublished: '2016-06-20T12:19:58.233Z'
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://mjgilbert.com/contact-me/'
 inLanguage: null
+keywords: []
+description: That's where I come in.
+datePublished: '2016-08-18T05:39:08.890Z'
+dateModified: '2016-08-18T05:18:25.706Z'
 author: []
 sourcePath: _posts/2016-02-01-the-edit-is-the-last-draft-of-the-script.md
-hasPage: false
-authors: []
 title: ''
-publisher: null
-keywords: []
-dateModified: '2016-06-20T12:19:27.594Z'
-inFeed: true
-isBasedOnUrl: 'http://mjgilbert.com/contact-me/'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+via: {}
 starred: true
 _type: MediaObject
 
