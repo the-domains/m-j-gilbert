@@ -1,18 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/172374044'
+inLanguage: null
+keywords: []
+description: Edit and Breakdowns by M J Gilbert
+datePublished: '2016-08-18T05:14:15.791Z'
+dateModified: '2016-08-18T05:07:59.521Z'
 author:
   - name: Iloura
     url: 'http://vimeo.com/iloura'
     avatar: {}
-datePublished: '2016-06-30T23:17:27.737Z'
 title: Iloura 2016 Game of Thrones Season 6 breakdown reel
-isBasedOnUrl: 'https://vimeo.com/172374044'
-description: Edit and Breakdowns by M J Gilbert
 sourcePath: _posts/2016-06-28-iloura-2016-game-of-thrones-season-6-breakdown-reel.md
-dateModified: '2016-06-30T23:17:17.023Z'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
