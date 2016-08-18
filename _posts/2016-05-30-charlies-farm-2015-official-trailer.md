@@ -1,18 +1,27 @@
 ---
-author:
-  - name: Horror Addict
-    url: 'https://www.youtube.com/user/HorrorTrailerAddict'
-    avatar: {}
-datePublished: '2016-06-20T12:11:45.240Z'
-title: Charlie's Farm (2015) Official Trailer
-isBasedOnUrl: 'https://youtube.com/watch?v=SSDOxlVYZiw'
-description: Edited by Michael J Gilbert
-sourcePath: _posts/2016-05-30-charlies-farm-2015-official-trailer.md
-dateModified: '2016-06-20T12:11:22.192Z'
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://youtube.com/watch?v=SSDOxlVYZiw'
+inLanguage: null
+keywords: []
+description: Edited by Michael J Gilbert
+datePublished: '2016-08-18T05:11:20.580Z'
+dateModified: '2016-08-18T05:11:19.924Z'
+author:
+  - name: SlaughterFX
+    url: 'https://www.youtube.com/user/ozzygore666'
+    avatar: {}
+title: Charlie's Farm (2015) Official Trailer
+sourcePath: _posts/2016-05-30-charlies-farm-2015-official-trailer.md
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
+via: {}
+starred: false
 _type: MediaObject
 
 ---
