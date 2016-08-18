@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/168591756'
 inLanguage: null
 keywords: []
 description: Edited by Michael J Gilbert
-datePublished: '2016-08-18T05:45:01.898Z'
-dateModified: '2016-08-18T05:45:00.756Z'
+datePublished: '2016-08-18T06:07:34.470Z'
+dateModified: '2016-08-18T06:06:06.434Z'
 author:
   - name: Iloura
     url: 'http://vimeo.com/iloura'
@@ -17,9 +17,9 @@ sourcePath: _posts/2016-05-31-iloura-june-2016-montage-reel.md
 via: {}
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 _type: MediaObject
