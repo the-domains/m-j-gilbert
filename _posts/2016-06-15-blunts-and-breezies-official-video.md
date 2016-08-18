@@ -1,18 +1,27 @@
 ---
-dateModified: '2016-06-15T00:08:23.459Z'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/86216136'
+inLanguage: null
+keywords: []
+description: Edited by Michael J Gilbert
+datePublished: '2016-08-18T05:13:33.067Z'
+dateModified: '2016-08-18T05:13:27.500Z'
 author:
   - name: Anthony Monteforte
     url: 'http://vimeo.com/ajmonteforte'
     avatar: {}
-title: Blunts and Breezies (Official Video)
-isBasedOnUrl: 'https://vimeo.com/86216136'
-description: Edited by Michael J Gilbert
-datePublished: '2016-06-15T00:08:31.016Z'
-starred: false
+title: Blunts and Breezies // Official Video
 sourcePath: _posts/2016-06-15-blunts-and-breezies-official-video.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
+via: {}
+starred: false
 _type: MediaObject
 
 ---
