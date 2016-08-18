@@ -6,21 +6,21 @@ isBasedOnUrl: 'https://youtube.com/watch?v=SSDOxlVYZiw'
 inLanguage: null
 keywords: []
 description: Edited by Michael J Gilbert
-datePublished: '2016-08-18T05:11:20.580Z'
-dateModified: '2016-08-18T05:11:19.924Z'
+datePublished: '2016-08-18T05:12:22.362Z'
+dateModified: '2016-08-18T05:12:18.092Z'
 author:
   - name: SlaughterFX
     url: 'https://www.youtube.com/user/ozzygore666'
     avatar: {}
-title: Charlie's Farm (2015) Official Trailer
+title: Charlie's Farm // Official Trailer
 sourcePath: _posts/2016-05-30-charlies-farm-2015-official-trailer.md
+via: {}
 authors: []
 publisher:
   name: ''
   domain: null
   url: ''
   favicon: null
-via: {}
 starred: false
 _type: MediaObject
 
