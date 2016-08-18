@@ -6,18 +6,16 @@ isBasedOnUrl: 'http://mjgilbert.com/contact-me/'
 inLanguage: null
 keywords: []
 description: That's where I come in.
-datePublished: '2016-08-18T05:39:08.890Z'
-dateModified: '2016-08-18T05:18:25.706Z'
-author: []
+datePublished: '2016-08-18T06:21:57.272Z'
+dateModified: '2016-08-18T05:39:52.823Z'
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-01-the-edit-is-the-last-draft-of-the-script.md
 title: ''
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 via: {}
+authors: []
+publisher: {}
 starred: true
 _type: MediaObject
 
