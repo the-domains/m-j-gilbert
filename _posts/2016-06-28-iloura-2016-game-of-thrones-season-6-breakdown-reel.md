@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/172374044'
 inLanguage: null
 keywords: []
 description: Edit and Breakdowns by M J Gilbert
-datePublished: '2016-08-18T06:01:52.820Z'
-dateModified: '2016-08-18T06:01:33.959Z'
+datePublished: '2016-08-18T06:02:38.683Z'
+dateModified: '2016-08-18T06:01:58.038Z'
 author:
   - name: Iloura
     url: 'http://vimeo.com/iloura'
@@ -17,11 +17,11 @@ via: {}
 title: Iloura // Game of Thrones Season 6
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
-starred: true
+starred: false
 _type: MediaObject
 
 ---
