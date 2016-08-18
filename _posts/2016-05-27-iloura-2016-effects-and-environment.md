@@ -1,18 +1,27 @@
 ---
-dateModified: '2016-06-20T12:11:22.935Z'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/166909217'
+inLanguage: null
+keywords: []
+description: Edited by Michael J Gilbert
+datePublished: '2016-08-18T05:15:54.913Z'
+dateModified: '2016-08-18T05:15:48.311Z'
 author:
   - name: Iloura
     url: 'http://vimeo.com/iloura'
     avatar: {}
-title: Iloura 2016 Effects & Environment
-isBasedOnUrl: 'https://vimeo.com/166909217'
-description: Edited by Michael J Gilbert
+title: Iloura // Effects & Environment
 sourcePath: _posts/2016-05-27-iloura-2016-effects-and-environment.md
-datePublished: '2016-06-20T12:12:05.459Z'
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
