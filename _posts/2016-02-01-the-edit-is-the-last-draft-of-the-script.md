@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://mjgilbert.com/contact-me/'
 inLanguage: null
 keywords: []
 description: That's where I come in.
-datePublished: '2016-08-18T06:26:33.334Z'
-dateModified: '2016-08-18T06:22:08.057Z'
+datePublished: '2016-08-18T06:33:31.459Z'
+dateModified: '2016-08-18T06:33:30.820Z'
 author:
   - name: ''
     url: ''
@@ -16,9 +16,9 @@ title: ''
 via: {}
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: true
 _type: MediaObject
