@@ -6,21 +6,21 @@ isBasedOnUrl: 'https://vimeo.com/86216136'
 inLanguage: null
 keywords: []
 description: Edited by Michael J Gilbert
-datePublished: '2016-08-18T05:13:33.067Z'
-dateModified: '2016-08-18T05:13:27.500Z'
+datePublished: '2016-08-18T05:44:42.765Z'
+dateModified: '2016-08-18T05:44:42.395Z'
 author:
-  - name: Anthony Monteforte
+  - name: Phake Music
     url: 'http://vimeo.com/ajmonteforte'
     avatar: {}
-title: Blunts and Breezies // Official Video
+title: Toomz // Blunts and Breezies
 sourcePath: _posts/2016-06-15-blunts-and-breezies-official-video.md
+via: {}
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
-via: {}
 starred: false
 _type: MediaObject
 
