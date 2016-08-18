@@ -4,7 +4,7 @@
         <description><![CDATA[M J Gilbert]]></description>
         <link>http://mjgilbert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 05:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 05:13:35 GMT</lastBuildDate>
         <atom:link href="http://mjgilbert.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Reel]]></title>
@@ -19,6 +19,13 @@
             <link>http://mjgilbert.com/contact-me/</link>
             <guid isPermaLink="false">1ee77382-b69a-4952-8e66-c64cff91b35e</guid>
             <pubDate>Mon, 20 Jun 2016 12:19:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blunts and Breezies // Official Video]]></title>
+            <description><![CDATA[<article><h1>Blunts and Breezies // Official Video</h1><p>Edited by Michael J Gilbert</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a84e40248112c78756aac55e2b7b1b2b7ebca32a.jpg"></article>]]></description>
+            <link>https://vimeo.com/86216136</link>
+            <guid isPermaLink="false">2d1ba59f-7a1a-4eb0-b807-5b5ae20fb546</guid>
+            <pubDate>Thu, 18 Aug 2016 05:13:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Charlie's Farm // Official Trailer]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>WLSQ // CSA TVC 60</h1><p>Directed by Alex Barnes</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15939c8a4f9245be5d92859674f41bce/noop.jpg?input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F507408755_1280x720.jpg"></article>]]></description>
             <link>https://vimeo.com/119830707</link>
             <guid isPermaLink="false">6efab373-d22d-4c9b-9f4e-823661f0134c</guid>
-            <pubDate>Mon, 20 Jun 2016 12:11:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fear and Delight - Editors Cut]]></title>
-            <description><![CDATA[<article><h1>Fear and Delight - Editors Cut</h1><p>Edited by Michael J Gilbert</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fc7914746b685dfa941675651297278556fc957.jpg"></article>]]></description>
-            <link>https://vimeo.com/130949819</link>
-            <guid isPermaLink="false">3a731d53-bcb0-46a3-a28d-7725894ba33c</guid>
             <pubDate>Mon, 20 Jun 2016 12:11:45 GMT</pubDate>
         </item>
     </channel>
