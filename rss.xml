@@ -4,7 +4,7 @@
         <description><![CDATA[M J Gilbert]]></description>
         <link>http://mjgilbert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 05:44:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 05:44:42 GMT</lastBuildDate>
         <atom:link href="http://mjgilbert.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Reel]]></title>
@@ -19,13 +19,6 @@
             <link>http://mjgilbert.com/contact-me/</link>
             <guid isPermaLink="false">1ee77382-b69a-4952-8e66-c64cff91b35e</guid>
             <pubDate>Thu, 18 Aug 2016 05:39:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toomz // Blunts and Breezies]]></title>
-            <description><![CDATA[<article><h1>Toomz // Blunts and Breezies</h1><p>Edited by Michael J Gilbert</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a84e40248112c78756aac55e2b7b1b2b7ebca32a.jpg"></article>]]></description>
-            <link>https://vimeo.com/86216136</link>
-            <guid isPermaLink="false">2d1ba59f-7a1a-4eb0-b807-5b5ae20fb546</guid>
-            <pubDate>Thu, 18 Aug 2016 05:44:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Game of Thrones’ Visual Effects: Inside ‘The Battle of the Bastards]]></title>
@@ -47,6 +40,13 @@
             <link>https://vimeo.com/166909217</link>
             <guid isPermaLink="false">ed27c6de-fe61-44ef-8ea6-57b2c412bc5b</guid>
             <pubDate>Thu, 18 Aug 2016 05:15:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blunts and Breezies // Official Video]]></title>
+            <description><![CDATA[<article><h1>Blunts and Breezies // Official Video</h1><p>Edited by Michael J Gilbert</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a84e40248112c78756aac55e2b7b1b2b7ebca32a.jpg"></article>]]></description>
+            <link>https://vimeo.com/86216136</link>
+            <guid isPermaLink="false">2d1ba59f-7a1a-4eb0-b807-5b5ae20fb546</guid>
+            <pubDate>Thu, 18 Aug 2016 05:13:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Charlie's Farm // Official Trailer]]></title>
