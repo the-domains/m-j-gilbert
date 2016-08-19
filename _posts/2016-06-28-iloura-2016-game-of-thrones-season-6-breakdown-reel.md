@@ -1,26 +1,22 @@
 ---
+datePublished: '2016-08-19T02:14:07.041Z'
+sourcePath: _posts/2016-06-28-iloura-2016-game-of-thrones-season-6-breakdown-reel.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'https://vimeo.com/172374044'
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
-description: Edited by M J Gilbert
-datePublished: '2016-08-18T06:04:46.461Z'
-dateModified: '2016-08-18T06:04:33.630Z'
 author:
   - name: Iloura
     url: 'http://vimeo.com/iloura'
     avatar: {}
-sourcePath: _posts/2016-06-28-iloura-2016-game-of-thrones-season-6-breakdown-reel.md
 via: {}
+dateModified: '2016-08-19T02:14:05.888Z'
 title: Iloura // GOT6 VFX Breakdowns
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
+description: Edited by M J Gilbert
+inLanguage: null
+inNav: false
 starred: false
 _type: MediaObject
 
