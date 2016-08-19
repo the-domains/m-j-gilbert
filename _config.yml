@@ -25,11 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Contact Me
-    id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
-    type: content
   - name: Work
     id: e62c1af9-0c6a-4bad-90b6-996bb73bf2df
+    type: content
+  - name: Contact Me
+    id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
     type: content
 favicon: null
 collections:
