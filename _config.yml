@@ -1,8 +1,34 @@
-name: M. J. Gilbert
-favicon: null
-layout_spectrum: 0.74911
 typography_spectrum: 0.67231
-title: M J Gilbert
+color:
+  brandColors:
+    - '#10172a'
+    - '#13335c'
+    - '#114d89'
+    - '#1775b3'
+    - '#198ec4'
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74911
+analytics:
+  google: UA-74177415-1
+  facebook: null
+  twitter: null
+name: M. J. Gilbert
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Contact Me
+    id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74177415-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#10172a'
-    - '#13335c'
-    - '#114d89'
-    - '#1775b3'
-    - '#198ec4'
-  brandStrength: 1
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+title: M J Gilbert
 purpose: []
