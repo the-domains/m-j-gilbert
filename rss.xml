@@ -4,7 +4,7 @@
         <description><![CDATA[M.J.Gilbert]]></description>
         <link>http://mjgilbert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 05:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 05:08:04 GMT</lastBuildDate>
         <atom:link href="http://mjgilbert.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The edit is the last draft of the script;]]></title>
@@ -12,6 +12,13 @@
             <link>http://mjgilbert.com/contact-me/</link>
             <guid isPermaLink="false">1ee77382-b69a-4952-8e66-c64cff91b35e</guid>
             <pubDate>Mon, 22 Aug 2016 02:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Reel]]></title>
+            <description><![CDATA[<article><h1>The Reel</h1><p>A little montage of some of my favourite jobs from recent past.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e0b218a3353a3dce60651546aaa92f46/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F522091141_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/124382426</link>
+            <guid isPermaLink="false">7b6bdd42-368c-4580-93dc-41de74df834e</guid>
+            <pubDate>Mon, 22 Aug 2016 03:55:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iloura // GOT6 VFX Breakdowns]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/130949819</link>
             <guid isPermaLink="false">3a731d53-bcb0-46a3-a28d-7725894ba33c</guid>
             <pubDate>Mon, 22 Aug 2016 02:39:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WLSQ // CSA TVC 60]]></title>
-            <description><![CDATA[<article><h1>WLSQ // CSA TVC 60</h1><p>Directed by Alex Barnes</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15939c8a4f9245be5d92859674f41bce/noop.jpg?input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F507408755_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/119830707</link>
-            <guid isPermaLink="false">6efab373-d22d-4c9b-9f4e-823661f0134c</guid>
-            <pubDate>Mon, 22 Aug 2016 02:39:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
