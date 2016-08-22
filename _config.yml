@@ -28,10 +28,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Contact Me
-    id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
-    type: content
 favicon: null
 collections:
   - index:
