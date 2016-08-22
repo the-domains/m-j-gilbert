@@ -1,26 +1,22 @@
 ---
+datePublished: '2016-08-22T02:39:01.555Z'
+sourcePath: _posts/2016-06-15-blunts-and-breezies-official-video.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'https://vimeo.com/86216136'
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
-description: Edited by Michael J Gilbert
-datePublished: '2016-08-18T05:44:42.765Z'
-dateModified: '2016-08-18T05:44:42.395Z'
 author:
   - name: Phake Music
     url: 'http://vimeo.com/ajmonteforte'
     avatar: {}
-title: Toomz // Blunts and Breezies
-sourcePath: _posts/2016-06-15-blunts-and-breezies-official-video.md
 via: {}
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-08-22T02:39:00.651Z'
+title: Toomz // Blunts and Breezies
+publisher: {}
+description: Edited by Michael J Gilbert
+inLanguage: null
+inNav: false
 starred: false
 _type: MediaObject
 
