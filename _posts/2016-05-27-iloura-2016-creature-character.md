@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/166910614'
 inLanguage: null
 keywords: []
 description: Edited by Michael J Gilbert
-datePublished: '2016-08-18T05:45:11.503Z'
-dateModified: '2016-08-18T05:45:10.730Z'
+datePublished: '2016-08-22T02:39:37.402Z'
+dateModified: '2016-08-18T06:07:27.509Z'
 author:
   - name: Iloura
     url: 'http://vimeo.com/iloura'
@@ -17,9 +17,9 @@ sourcePath: _posts/2016-05-27-iloura-2016-creature-character.md
 via: {}
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 _type: MediaObject
