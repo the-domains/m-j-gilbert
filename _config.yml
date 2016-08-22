@@ -1,4 +1,3 @@
-layout_spectrum: 0.35417654644697905
 typography_spectrum: 0.10807740036398172
 color:
   brandColors:
@@ -15,10 +14,15 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.35417654644697905
 analytics:
   google: UA-74177415-1
   facebook: null
   twitter: null
+author:
+  name: Michael Gilbert
+  email: michael@mjgilbert.com
+  url: mjgilbert.com
 name: M. J. Gilbert
 cta:
   domain: null
@@ -44,6 +48,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: M J Gilbert
+title: Offline - Online - VFX
 description: Offline - Online - VFX
 purpose: []
