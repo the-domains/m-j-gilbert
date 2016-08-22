@@ -6,21 +6,21 @@ isBasedOnUrl: 'https://youtube.com/watch?v=7tk7AZgiYq4'
 inLanguage: null
 keywords: []
 description: Directed by Katie Ridley
-datePublished: '2016-08-18T06:06:24.715Z'
-dateModified: '2016-08-18T05:14:54.335Z'
+datePublished: '2016-08-22T02:39:29.427Z'
+dateModified: '2016-08-18T06:06:35.193Z'
 author:
   - name: DZ Deathrays
     url: 'https://www.youtube.com/user/DZDEATHRAYS'
     avatar: {}
 title: DZ Deathrays // Less Out Of Sync
 sourcePath: _posts/2016-05-30-dz-deathrays-less-out-of-sync-official-video.md
+via: {}
 authors: []
 publisher:
   name: ''
   domain: null
   url: ''
   favicon: null
-via: {}
 starred: false
 _type: MediaObject
 
