@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-22T02:31:51.482Z'
+datePublished: '2016-08-22T03:01:27.900Z'
 sourcePath: _posts/2016-02-01-contact-me.md
-inFeed: false
+inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T02:31:50.678Z'
+dateModified: '2016-08-22T03:01:27.107Z'
 title: ''
 publisher: {}
 description: 'Call Me: +614 02 351 327'
@@ -15,7 +15,7 @@ inLanguage: null
 inNav: true
 starred: false
 url: contact-me/index.html
-_type: WebPage
+_type: Article
 
 ---
 Call Me: +614 02 351 327
