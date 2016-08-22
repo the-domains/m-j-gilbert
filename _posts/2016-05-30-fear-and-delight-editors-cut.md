@@ -6,21 +6,21 @@ isBasedOnUrl: 'https://vimeo.com/130949819'
 inLanguage: null
 keywords: []
 description: Edited by Michael J Gilbert
-datePublished: '2016-08-18T06:06:35.487Z'
-dateModified: '2016-08-18T05:15:12.066Z'
+datePublished: '2016-08-22T02:39:27.633Z'
+dateModified: '2016-08-18T06:06:47.750Z'
 author:
   - name: Michael Gilbert
     url: 'http://vimeo.com/mgilb19'
     avatar: {}
 title: Fear and Delight // Editors Cut
 sourcePath: _posts/2016-05-30-fear-and-delight-editors-cut.md
+via: {}
 authors: []
 publisher:
   name: ''
   domain: null
   url: ''
   favicon: null
-via: {}
 starred: false
 _type: MediaObject
 
