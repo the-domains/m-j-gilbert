@@ -4,7 +4,7 @@
         <description><![CDATA[M.J.Gilbert]]></description>
         <link>http://mjgilbert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 05:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 06:59:28 GMT</lastBuildDate>
         <atom:link href="http://mjgilbert.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The edit is the last draft of the script;]]></title>
@@ -12,6 +12,13 @@
             <link>http://mjgilbert.com/contact-me/</link>
             <guid isPermaLink="false">1ee77382-b69a-4952-8e66-c64cff91b35e</guid>
             <pubDate>Mon, 22 Aug 2016 02:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact Me]]></title>
+            <description><![CDATA[<article><h1>Contact Me</h1><p>Call Me: +614 02 351 327</p></article>]]></description>
+            <link>http://mjgilbert.com/contact-me/index.html</link>
+            <guid isPermaLink="false">3212a1e1-48a1-47f1-9cc7-b552d379755e</guid>
+            <pubDate>Mon, 22 Aug 2016 06:59:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Reel]]></title>
@@ -33,13 +40,6 @@
             <link>https://vimeo.com/172374044</link>
             <guid isPermaLink="false">538ec261-258f-478f-90e7-c5f77b2e9c90</guid>
             <pubDate>Mon, 22 Aug 2016 03:55:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact Me]]></title>
-            <description><![CDATA[<p>Call Me: +614 02 351 327</p>]]></description>
-            <link>http://mjgilbert.com/contact-me/index.html</link>
-            <guid isPermaLink="false">3212a1e1-48a1-47f1-9cc7-b552d379755e</guid>
-            <pubDate>Mon, 22 Aug 2016 03:01:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Work]]></title>
