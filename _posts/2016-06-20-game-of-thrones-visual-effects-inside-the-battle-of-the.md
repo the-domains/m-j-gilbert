@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T02:44:26.371Z'
+datePublished: '2016-08-22T05:25:48.915Z'
 sourcePath: _posts/2016-06-20-game-of-thrones-visual-effects-inside-the-battle-of-the.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,10 +8,11 @@ authors: []
 hasPage: false
 keywords: []
 author:
-  - name: ''
-    url: ''
+  - name: Artisians
+    url: >-
+      http://variety.com/video/game-of-thrones-battle-of-the-bastards-visual-effects/
 via: {}
-dateModified: '2016-08-22T02:44:25.235Z'
+dateModified: '2016-08-22T05:25:48.157Z'
 title: '‘Game of Thrones’ Visual Effects: Inside ‘The Battle of the Bastards'
 publisher:
   name: Variety
