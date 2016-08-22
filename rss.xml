@@ -4,7 +4,7 @@
         <description><![CDATA[M.J.Gilbert]]></description>
         <link>http://mjgilbert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 06:59:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 22:57:27 GMT</lastBuildDate>
         <atom:link href="http://mjgilbert.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The edit is the last draft of the script;]]></title>
@@ -12,6 +12,13 @@
             <link>http://mjgilbert.com/contact-me/</link>
             <guid isPermaLink="false">1ee77382-b69a-4952-8e66-c64cff91b35e</guid>
             <pubDate>Mon, 22 Aug 2016 02:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Work]]></title>
+            <description><![CDATA[<article><h1>Work</h1><h2>A list of some of my larger profile, longform projects.</h2></article>]]></description>
+            <link>http://mjgilbert.com/work/index.html</link>
+            <guid isPermaLink="false">e62c1af9-0c6a-4bad-90b6-996bb73bf2df</guid>
+            <pubDate>Mon, 22 Aug 2016 22:57:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact Me]]></title>
@@ -40,13 +47,6 @@
             <link>https://vimeo.com/172374044</link>
             <guid isPermaLink="false">538ec261-258f-478f-90e7-c5f77b2e9c90</guid>
             <pubDate>Mon, 22 Aug 2016 03:55:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Work]]></title>
-            <description><![CDATA[<article><h1>Work</h1><h2>A list of some of my larger profile, longform projects.</h2></article>]]></description>
-            <link>http://mjgilbert.com/work/index.html</link>
-            <guid isPermaLink="false">e62c1af9-0c6a-4bad-90b6-996bb73bf2df</guid>
-            <pubDate>Mon, 22 Aug 2016 03:01:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iloura // Creature Character]]></title>
