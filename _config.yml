@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Work
+    id: e62c1af9-0c6a-4bad-90b6-996bb73bf2df
+    type: content
 favicon: null
 collections:
   - index:
