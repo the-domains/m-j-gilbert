@@ -14,9 +14,9 @@ collections:
       path: '/:title/'
 description: Offline - Online - VFX
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 1
-  lightness: 0
+  lightness: 1
   brandColors:
     - '#10172a'
     - '#13335c'
