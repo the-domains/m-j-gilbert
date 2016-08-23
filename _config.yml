@@ -1,33 +1,33 @@
-layout_spectrum: 0.8179054188076407
-typography_spectrum: 0.7680554003454745
+title: Editor
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: Offline - Online - VFX
 color:
+  saturation: 1
+  brandStrength: 1
+  rhythmicContrast: 0
   brandColors:
     - '#10172a'
     - '#13335c'
     - '#114d89'
     - '#1775b3'
     - '#198ec4'
-  brandStrength: 1
   lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: UA-74177415-1
-  facebook: null
-  twitter: null
-author:
-  name: Michael Gilbert
-  email: michael@mjgilbert.com
-  url: mjgilbert.com
-name: M.J.Gilbert
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 navigation:
   - name: Work
     id: e62c1af9-0c6a-4bad-90b6-996bb73bf2df
@@ -36,18 +36,18 @@ navigation:
     id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
     type: content
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Editor
-description: Offline - Online - VFX
-purpose: []
+name: M.J.Gilbert
+author:
+  name: Michael Gilbert
+  email: michael@mjgilbert.com
+  url: mjgilbert.com
+opengraph:
+  image: null
+  type: null
+  appId: null
+analytics:
+  twitter: null
+  google: UA-74177415-1
+  facebook: null
+typography_spectrum: 0.3909411472268403
+layout_spectrum: 1
