@@ -14,7 +14,7 @@ collections:
       number: 10
 description: Offline - Online - VFX
 color:
-  saturation: 0.433405
+  saturation: 1
   brandStrength: 1
   lightness: 0.5214823
   brandColors:
@@ -23,7 +23,7 @@ color:
     - '#114d89'
     - '#1775b3'
     - '#198ec4'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -33,11 +33,11 @@ analytics:
   google: UA-74177415-1
   facebook: null
 favicon: null
+name: M.J.Gilbert
 author:
   name: Michael Gilbert
   email: michael@mjgilbert.com
   url: mjgilbert.com
-name: M.J.Gilbert
 opengraph:
   image: null
   type: null
