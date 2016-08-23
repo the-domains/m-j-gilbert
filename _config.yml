@@ -1,3 +1,16 @@
+layout_spectrum: 0.5260698159690946
+typography_spectrum: 0.9251352655701339
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#10172a'
+    - '#13335c'
+    - '#114d89'
+    - '#1775b3'
+    - '#198ec4'
+  rhythmicContrast: 0
 title: Editor
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
     permalink:
       path: '/:title/'
 description: Offline - Online - VFX
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
-  brandColors:
-    - '#10172a'
-    - '#13335c'
-    - '#114d89'
-    - '#1775b3'
-    - '#198ec4'
-  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -49,5 +51,3 @@ analytics:
   twitter: null
   google: UA-74177415-1
   facebook: null
-typography_spectrum: 0.7878625
-layout_spectrum: 0.8877551
