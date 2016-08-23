@@ -1,4 +1,3 @@
-layout_spectrum: 0.5260698159690946
 typography_spectrum: 0.9251352655701339
 color:
   saturation: 1
@@ -11,21 +10,20 @@ color:
     - '#1775b3'
     - '#198ec4'
   rhythmicContrast: 0
-title: Editor
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-description: Offline - Online - VFX
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5260698159690946
+analytics:
+  twitter: null
+  google: UA-74177415-1
+  facebook: null
+author:
+  name: © Michael Gilbert 2017
+  email: michael@mjgilbert.com
+  url: mjgilbert.com
+name: M.J.Gilbert
 cta:
   bucket: null
   version: null
@@ -38,16 +36,18 @@ navigation:
     id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
     type: content
 favicon: null
-author:
-  name: Michael Gilbert
-  email: michael@mjgilbert.com
-  url: mjgilbert.com
-name: M.J.Gilbert
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  twitter: null
-  google: UA-74177415-1
-  facebook: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Editor
+description: Offline - Online - VFX
+purpose: []
