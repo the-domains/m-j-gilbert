@@ -1,5 +1,8 @@
+name: M.J.Gilbert
+favicon: null
+layout_spectrum: 0.8383458
+typography_spectrum: 1
 title: Editor
-purpose: []
 collections:
   - index:
       path: /
@@ -13,35 +16,10 @@ collections:
       format: rss
       number: 10
 description: Offline - Online - VFX
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0.5214823
-  brandColors:
-    - '#10172a'
-    - '#13335c'
-    - '#114d89'
-    - '#1775b3'
-    - '#198ec4'
-  rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-74177415-1
-  facebook: null
-favicon: null
-name: M.J.Gilbert
 author:
   name: Michael Gilbert
   email: michael@mjgilbert.com
   url: mjgilbert.com
-opengraph:
-  image: null
-  type: null
-  appId: null
 navigation:
   - name: Work
     id: e62c1af9-0c6a-4bad-90b6-996bb73bf2df
@@ -49,5 +27,27 @@ navigation:
   - name: Contact Me
     id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
     type: content
-typography_spectrum: 0.7878625
-layout_spectrum: 0.8383458
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-74177415-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#10172a'
+    - '#13335c'
+    - '#114d89'
+    - '#1775b3'
+    - '#198ec4'
+  brandStrength: 1
+  lightness: 0.5214823
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
