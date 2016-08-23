@@ -36,11 +36,11 @@ navigation:
     id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
     type: content
 favicon: null
-name: M.J.Gilbert
 author:
   name: Michael Gilbert
   email: michael@mjgilbert.com
   url: mjgilbert.com
+name: M.J.Gilbert
 opengraph:
   image: null
   type: null
@@ -50,4 +50,4 @@ analytics:
   google: UA-74177415-1
   facebook: null
 typography_spectrum: 0.7878625
-layout_spectrum: 0.6192266
+layout_spectrum: 0.8877551
