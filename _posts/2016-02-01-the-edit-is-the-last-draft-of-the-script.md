@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T02:18:21.181Z'
+datePublished: '2016-08-24T02:19:38.385Z'
 sourcePath: _posts/2016-02-01-the-edit-is-the-last-draft-of-the-script.md
 inFeed: true
 isBasedOnUrl: 'http://mjgilbert.com/contact-me/'
@@ -8,7 +8,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T02:18:20.228Z'
+dateModified: '2016-08-24T02:19:37.449Z'
 title: The edit is the last draft of the script;
 publisher: {}
 description: ''
