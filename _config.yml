@@ -23,11 +23,14 @@ color:
     - '#114d89'
     - '#1775b3'
     - '#198ec4'
-  rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
+  rhythmicContrast: 0
+navigation:
+  - name: Work
+    id: e62c1af9-0c6a-4bad-90b6-996bb73bf2df
+    type: content
+  - name: Contact Me
+    id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
+    type: content
 analytics:
   twitter: null
   google: UA-74177415-1
@@ -37,17 +40,14 @@ author:
   name: Michael Gilbert
   email: michael@mjgilbert.com
   url: mjgilbert.com
-navigation:
-  - name: Work
-    id: e62c1af9-0c6a-4bad-90b6-996bb73bf2df
-    type: content
-  - name: Contact Me
-    id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
-    type: content
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
   appId: null
 name: M.J.Gilbert
 typography_spectrum: 0.07357676
-layout_spectrum: 0.8383458
+layout_spectrum: 1
