@@ -1,19 +1,19 @@
 ---
-description: ''
-datePublished: '2016-08-24T02:16:18.180Z'
-inNav: false
-author: []
-via: {}
+datePublished: '2016-08-24T02:18:21.181Z'
 sourcePath: _posts/2016-02-01-the-edit-is-the-last-draft-of-the-script.md
+inFeed: true
+isBasedOnUrl: 'http://mjgilbert.com/contact-me/'
 authors: []
 hasPage: false
-inLanguage: null
-isBasedOnUrl: 'http://mjgilbert.com/contact-me/'
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-24T02:18:20.228Z'
 title: The edit is the last draft of the script;
 publisher: {}
-keywords: []
-dateModified: '2016-08-24T02:15:55.118Z'
-inFeed: true
+description: ''
+inLanguage: null
+inNav: false
 starred: true
 _type: MediaObject
 
