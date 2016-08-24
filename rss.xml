@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[M.J.Gilbert]]></title>
-        <description><![CDATA[M.J.Gilbert]]></description>
+        <title><![CDATA[Editor]]></title>
+        <description><![CDATA[Editor]]></description>
         <link>http://mjgilbert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 22:57:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 02:15:04 GMT</lastBuildDate>
         <atom:link href="http://mjgilbert.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The edit is the last draft of the script;]]></title>
-            <description><![CDATA[<article><h1>The edit is the last draft of the script;</h1><h2>That's where I come in.</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e5bee26c2cc894f5b2e5c3cead6cd47fe2a05ec.jpg"></article>]]></description>
-            <link>http://mjgilbert.com/contact-me/</link>
-            <guid isPermaLink="false">1ee77382-b69a-4952-8e66-c64cff91b35e</guid>
-            <pubDate>Mon, 22 Aug 2016 02:29:06 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Contact Me]]></title>
             <description><![CDATA[<article><h1>Contact Me</h1><p>Call Me: +614 02 351 327</p></article>]]></description>
