@@ -1,3 +1,16 @@
+layout_spectrum: 0.4056143295019865
+typography_spectrum: 0.21878502005711198
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#10172a'
+    - '#13335c'
+    - '#114d89'
+    - '#1775b3'
+    - '#198ec4'
+  rhythmicContrast: 1
 title: Michael Gilbert - Editor
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
     permalink:
       path: '/:title/'
 description: Offline - Online - VFX
-color:
-  saturation: 0
-  brandStrength: 1
-  lightness: 1
-  brandColors:
-    - '#10172a'
-    - '#13335c'
-    - '#114d89'
-    - '#1775b3'
-    - '#198ec4'
-  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -52,5 +54,3 @@ navigation:
     type: content
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2cfc8ee-02aa-4b2b-a146-27cf7dc49273.png
-typography_spectrum: 0.8447905
-layout_spectrum: 1
