@@ -1,16 +1,3 @@
-layout_spectrum: 0.21328914444893599
-typography_spectrum: 0.540052448399365
-color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 0
-  brandColors:
-    - '#10172a'
-    - '#13335c'
-    - '#114d89'
-    - '#1775b3'
-    - '#198ec4'
-  lightness: 0
 title: Michael Gilbert - Editor
 purpose: []
 collections:
@@ -19,13 +6,43 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: Offline - Online - VFX
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#10172a'
+    - '#13335c'
+    - '#114d89'
+    - '#1775b3'
+    - '#198ec4'
+  rhythmicContrast: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-74177415-1
+  facebook: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1ea6ad0-27ee-4052-bd3f-ce18e13af69d.png
+author:
+  name: Michael Gilbert
+  email: michael@mjgilbert.com
+  url: mjgilbert.com
+name: M.J.Gilbert
+opengraph:
+  image: null
+  type: null
+  appId: null
 navigation:
   - name: Work
     id: e62c1af9-0c6a-4bad-90b6-996bb73bf2df
@@ -33,24 +50,7 @@ navigation:
   - name: Contact Me
     id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
     type: content
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: M.J.Gilbert
-author:
-  name: Michael Gilbert
-  email: michael@mjgilbert.com
-  url: mjgilbert.com
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1ea6ad0-27ee-4052-bd3f-ce18e13af69d.png
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  twitter: null
-  google: UA-74177415-1
-  facebook: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2cfc8ee-02aa-4b2b-a146-27cf7dc49273.png
+typography_spectrum: 0.8447905
+layout_spectrum: 1
