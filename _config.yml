@@ -14,16 +14,16 @@ collections:
       path: '/:title/'
 description: Offline - Online - VFX
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 1
-  rhythmicContrast: 1
+  lightness: 1
   brandColors:
     - '#10172a'
     - '#13335c'
     - '#114d89'
     - '#1775b3'
     - '#198ec4'
-  lightness: 1
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
