@@ -1,8 +1,19 @@
+layout_spectrum: 0.3601477744523436
+typography_spectrum: 0.3468356600496918
+color:
+  brandColors:
+    - '#0067A4'
+    - '#2184BE'
+    - '#FFFFFF'
+    - '#7FADBD'
+    - '#AFD7E5'
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 1
 name: M.J.Gilbert
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1ea6ad0-27ee-4052-bd3f-ce18e13af69d.png
-layout_spectrum: 0.5395754508208483
-typography_spectrum: 0.27238
 title: Editor
 collections:
   - index:
@@ -42,15 +53,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0067A4'
-    - '#2184BE'
-    - '#FFFFFF'
-    - '#7FADBD'
-    - '#AFD7E5'
-  brandStrength: 1
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
