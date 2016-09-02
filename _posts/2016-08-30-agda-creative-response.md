@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T00:28:01.080Z'
+datePublished: '2016-08-31T00:29:14.494Z'
 sourcePath: _posts/2016-08-30-agda-creative-response.md
 isBasedOnUrl: 'https://vimeo.com/132068916'
 author:
@@ -7,7 +7,7 @@ author:
     url: 'https://vimeo.com/agda'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T00:27:51.788Z'
+dateModified: '2016-08-31T00:29:13.553Z'
 title: AGDA // Creative Response
 publisher: {}
 description: AGDA Awards 2015 Creative Response by Michael Gilbert.
