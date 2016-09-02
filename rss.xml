@@ -4,7 +4,7 @@
         <description><![CDATA[Editor]]></description>
         <link>http://mjgilbert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 02:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 02:16:31 GMT</lastBuildDate>
         <atom:link href="http://mjgilbert.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Ghostbusters VFX Reel Is Beautiful]]></title>
@@ -12,6 +12,13 @@
             <link>http://io9.gizmodo.com/this-ghostbusters-vfx-reel-is-beautiful-1785821397?rev=1472249857084&amp;utm_campaign=socialflow_io9_facebook&amp;utm_source=io9_facebook&amp;utm_medium=socialflow</link>
             <guid isPermaLink="false">862390c7-c314-43a3-b63b-fc87922449e6</guid>
             <pubDate>Wed, 31 Aug 2016 02:14:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iloura // Ghostbusters VFX Breakdowns]]></title>
+            <description><![CDATA[<article><h1>Iloura // Ghostbusters VFX Breakdowns</h1><p>Edited by Michael J Gilbert</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/96c6defcddf948c5ae0b685de66c09ea/croprotate.jpg?cropheight=825&cropwidth=1920&degrees=0&input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F588256763_1920x1080.jpg&x=0&y=128"></article>]]></description>
+            <link>https://vimeo.com/180110425</link>
+            <guid isPermaLink="false">820d0a91-bc0a-4b9f-90db-9f3b4af9bbe7</guid>
+            <pubDate>Wed, 31 Aug 2016 02:16:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Game of Thrones’ Visual Effects: Inside ‘The Battle of the Bastards]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/166909217</link>
             <guid isPermaLink="false">ed27c6de-fe61-44ef-8ea6-57b2c412bc5b</guid>
             <pubDate>Mon, 22 Aug 2016 02:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DZ Deathrays // Less Out Of Sync]]></title>
-            <description><![CDATA[<article><h1>DZ Deathrays // Less Out Of Sync</h1><p>Directed by Katie Ridley</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb802011a8ede34dc4352839ae354799dad07dc0.jpg"></article>]]></description>
-            <link>https://youtube.com/watch?v=7tk7AZgiYq4</link>
-            <guid isPermaLink="false">2cd96970-b959-4177-b514-0feb8280b9a8</guid>
-            <pubDate>Mon, 22 Aug 2016 02:39:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
