@@ -1,16 +1,16 @@
 layout_spectrum: 0.6509920749813318
-typography_spectrum: 0.28023934341035783
+typography_spectrum: 0.32483390998095274
 color:
   brandColors:
-    - '#0067A4'
-    - '#2184BE'
-    - '#FFFFFF'
-    - '#7FADBD'
-    - '#AFD7E5'
-  brandStrength: 1
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
+    - '#13335C'
+    - '#1775B3'
+    - '#114D89'
+    - '#10172A'
+    - '#198EC4'
+  brandStrength: 0.39687351137399673
+  lightness: 0.7610297240316868
+  saturation: 0.24291843874379992
+  rhythmicContrast: 0.7804435004945844
 name: M.J.Gilbert
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1ea6ad0-27ee-4052-bd3f-ce18e13af69d.png
