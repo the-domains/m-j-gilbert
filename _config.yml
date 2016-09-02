@@ -1,5 +1,44 @@
-title: Michael Gilbert - Editor
-purpose: []
+typography_spectrum: 0.2690655
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#0067A4'
+    - '#2184BE'
+    - '#FFFFFF'
+    - '#7FADBD'
+    - '#AFD7E5'
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: UA-74177415-1
+  facebook: null
+author:
+  name: Michael Gilbert
+  email: michael@mjgilbert.com
+  url: mjgilbert.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2cfc8ee-02aa-4b2b-a146-27cf7dc49273.png
+name: M.J.Gilbert
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Work
+    id: e62c1af9-0c6a-4bad-90b6-996bb73bf2df
+    type: content
+  - name: Contact Me
+    id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1ea6ad0-27ee-4052-bd3f-ce18e13af69d.png
 collections:
   - index:
       path: /
@@ -12,45 +51,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Editor
 description: Offline - Online - VFX
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0
-  brandColors:
-    - '#0067A4'
-    - '#2184BE'
-    - '#FFFFFF'
-    - '#7FADBD'
-    - '#AFD7E5'
-  rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-74177415-1
-  facebook: null
-name: M.J.Gilbert
-author:
-  name: Michael Gilbert
-  email: michael@mjgilbert.com
-  url: mjgilbert.com
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1ea6ad0-27ee-4052-bd3f-ce18e13af69d.png
-opengraph:
-  image: null
-  type: null
-  appId: null
-navigation:
-  - name: Work
-    id: e62c1af9-0c6a-4bad-90b6-996bb73bf2df
-    type: content
-  - name: Contact Me
-    id: 3212a1e1-48a1-47f1-9cc7-b552d379755e
-    type: content
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2cfc8ee-02aa-4b2b-a146-27cf7dc49273.png
-typography_spectrum: 0.2690655
-layout_spectrum: 1
+purpose: []
