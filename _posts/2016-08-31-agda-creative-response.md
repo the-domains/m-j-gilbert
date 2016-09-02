@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-31T00:38:50.623Z'
+datePublished: '2016-08-31T00:40:23.107Z'
+sourcePath: _posts/2016-08-31-agda-creative-response.md
 isBasedOnUrl: 'https://vimeo.com/132068916'
 keywords: []
 related: []
@@ -8,7 +9,7 @@ author:
     url: 'https://vimeo.com/agda'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T00:38:37.308Z'
+dateModified: '2016-08-31T00:40:22.364Z'
 title: AGDA // Creative Response
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/132068916'
@@ -37,10 +38,13 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-publisher: {}
+publisher:
+  url: 'https://vimeo.com/'
+  name: Vimeo
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+  domain: vimeo.com
 description: AGDA Awards 2015 Creative Response by Michael Gilbert.
 starred: false
-sourcePath: _posts/2016-08-31-agda-creative-response.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -48,8 +52,6 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04aa0162-a3a7-49a3-8996-9fea6c9311f9.jpg)
-
 # AGDA // Creative Response
 
 AGDA Awards 2015 Creative Response by Michael Gilbert.
