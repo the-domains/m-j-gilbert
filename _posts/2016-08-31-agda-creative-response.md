@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T00:40:23.107Z'
+datePublished: '2016-08-31T00:49:57.951Z'
 sourcePath: _posts/2016-08-31-agda-creative-response.md
 isBasedOnUrl: 'https://vimeo.com/132068916'
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'https://vimeo.com/agda'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T00:40:22.364Z'
+dateModified: '2016-08-31T00:48:59.380Z'
 title: AGDA // Creative Response
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/132068916'
