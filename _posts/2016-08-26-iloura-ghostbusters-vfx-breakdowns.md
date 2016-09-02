@@ -1,18 +1,18 @@
 ---
-id: 820d0a91-bc0a-4b9f-90db-9f3b4af9bbe7
-dateModified: '2016-08-31T01:56:29.596Z'
-title: Iloura // Ghostbusters VFX Breakdowns
-datePublished: '2016-08-31T02:01:23.100Z'
+datePublished: '2016-08-31T02:16:30.530Z'
+isBasedOnUrl: 'https://vimeo.com/180110425'
 author:
   - name: Iloura
     url: 'https://vimeo.com/iloura'
     avatar: {}
-isBasedOnUrl: 'https://vimeo.com/180110425'
-sourcePath: _posts/2016-08-26-iloura-ghostbusters-vfx-breakdowns.md
-description: Edited by Michael J Gilbert
-publisher: {}
 via: {}
+dateModified: '2016-08-31T02:16:29.604Z'
+title: Iloura // Ghostbusters VFX Breakdowns
+id: 820d0a91-bc0a-4b9f-90db-9f3b4af9bbe7
+publisher: {}
+description: Edited by Michael J Gilbert
 starred: false
+sourcePath: _posts/2016-08-26-iloura-ghostbusters-vfx-breakdowns.md
 inFeed: true
 hasPage: false
 inNav: false
