@@ -1,4 +1,3 @@
-layout_spectrum: 0.6509920749813318
 typography_spectrum: 0.5702130643185228
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6509920749813318
 analytics:
   google: UA-74177415-1
   facebook: null
@@ -52,5 +52,5 @@ collections:
       format: rss
       number: 10
 title: Michael Gilbert - Editor
-description: "\_Offline // Online // VFX\_"
+description: "\_Offline - Online - VFX\_"
 purpose: []
