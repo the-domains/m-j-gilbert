@@ -1,20 +1,17 @@
 ---
-dateModified: '2016-08-30T12:18:19.051Z'
+datePublished: '2016-08-31T00:19:07.693Z'
+sourcePath: _posts/2016-08-30-agda-creative-response.md
+isBasedOnUrl: 'https://vimeo.com/132068916'
 author:
   - name: AGDA
     url: 'https://vimeo.com/agda'
     avatar: {}
 via: {}
+dateModified: '2016-08-31T00:19:06.890Z'
 title: AGDA // Creative Response
-isBasedOnUrl: 'https://vimeo.com/132068916'
 publisher: {}
-description: >-
-  AGDA Awards 2015 Creative Response - Michael Gilbert Shot on iPhone, edit,
-  post and music - Michael Gilbert - http://www.vimeo.com/mgilb19 Find out more
-  about the AGDA Awards 2015: http://awards.agda.com.au
-datePublished: '2016-08-30T12:18:38.947Z'
+description: 'AGDA Awards 2015 Creative Response by Michael Gilbert. '
 starred: false
-sourcePath: _posts/2016-08-30-agda-creative-response.md
 inFeed: true
 hasPage: false
 inNav: false
