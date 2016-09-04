@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Editor]]></title>
-        <description><![CDATA[Editor]]></description>
+        <title><![CDATA[Michael Gilbert - Editor]]></title>
+        <description><![CDATA[Michael Gilbert - Editor]]></description>
         <link>http://mjgilbert.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 02:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 09:25:23 GMT</lastBuildDate>
         <atom:link href="http://mjgilbert.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Ghostbusters VFX Reel Is Beautiful]]></title>
@@ -35,6 +35,13 @@
             <pubDate>Wed, 31 Aug 2016 01:57:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Contact Me]]></title>
+            <description><![CDATA[<article><h1>Contact Me</h1><p>Call Me: +614 02 351 327</p></article>]]></description>
+            <link>http://mjgilbert.com/contact-me/index.html</link>
+            <guid isPermaLink="false">3212a1e1-48a1-47f1-9cc7-b552d379755e</guid>
+            <pubDate>Thu, 01 Sep 2016 09:25:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Iloura // GOT6 VFX Breakdowns]]></title>
             <description><![CDATA[<article><h1>Iloura // GOT6 VFX Breakdowns</h1><p>Edited by Michael J Gilbert</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b98181b8551c02419ec9841bed75fed4/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F578156864_1920x1080.jpg"></article>]]></description>
             <link>https://vimeo.com/172374044</link>
@@ -47,13 +54,6 @@
             <link>https://vimeo.com/132068916</link>
             <guid isPermaLink="false">3e51a29d-fb69-4081-a1a6-c3bcf92d6df5</guid>
             <pubDate>Wed, 31 Aug 2016 00:49:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact Me]]></title>
-            <description><![CDATA[<article><h1>Contact Me</h1><p>Call Me: +614 02 351 327</p></article>]]></description>
-            <link>http://mjgilbert.com/contact-me/index.html</link>
-            <guid isPermaLink="false">3212a1e1-48a1-47f1-9cc7-b552d379755e</guid>
-            <pubDate>Mon, 22 Aug 2016 22:57:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iloura // Creature Character]]></title>
